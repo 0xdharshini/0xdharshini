@@ -16,7 +16,9 @@
 - Illustration projects, including digital and traditional art
 
 ## 📫 How to reach me:
-Feel free to connect with me at: [dharshini.d.sivakumar@gmail.com](mailto:dharshini.d.sivakumar@gmail.com)
-
+Feel free to connect with me at: 
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/dharshini-d-s/)
+- **Email**: [dharshini.d.sivakumar@gmail.com](mailto:dharshini.d.sivakumar@gmail.com)
+- **GitHub**: [GitHub profile](https://github.com/0xdharshini)
 ## ⚡ Fun fact:
 I’m also an artist! I love blending my artistic skills with graphic design to create unique visuals.
